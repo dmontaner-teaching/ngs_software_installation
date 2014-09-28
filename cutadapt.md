@@ -1,8 +1,12 @@
-Install cutadapt
+Build cutadapt
 ================
 
 The latest version (__1.5__ when I wrote this) is available at: 
 <https://github.com/marcelm/cutadapt>
+
+
+It comes with a compiled `bin/cutadapt` which may be used directly. 
+If it does not work you will need to _build_ it.
 
 
 Dependencies
@@ -29,7 +33,9 @@ Then the script
 
     build/scripts-2.7/cutadapt
     
-seems to work fine.
+seems to work fine. 
+You can direclty call it or include it in your path.
+
 
 
 Note
