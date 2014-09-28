@@ -9,4 +9,5 @@ Dependencies
 ------------
 
     sudo apt-get install python-dev
-    sudo apt-get install cython
+    sudo apt-get install cython 
+    sudo apt-get install cython-dbg cython-doc 
