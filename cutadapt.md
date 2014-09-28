@@ -20,7 +20,13 @@ Build
     cd cutadapt-1.5/
     
     python setup.py build
-    python setup.py build_ext -i
+    python setup.py build_ext -i    # -i is just for verbose output
     
     cp bin/_preamble.py build/scripts-2.7/
 
+
+Then the script 
+
+    build/scripts-2.7/cutadapt
+    
+seems to work fine
