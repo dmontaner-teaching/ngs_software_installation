@@ -12,6 +12,8 @@ Include this line in your __.profle__ file (in your home directory)
 
     export PATH=path/to/the/directory/containing/binaries:$PATH
 
+Add the new folder __at the begining__ the $PATH variable as commands are sought in left to right order in all indicated folders.
+
 After modifying the file you will need to "reload" it doing:
 
     source .profile
