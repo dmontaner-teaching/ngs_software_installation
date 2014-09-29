@@ -11,5 +11,7 @@ Latest binary releases may be found at
 
 Uncompress the file and type `make` from whithin the uncomressed directory.
 
+This will create a `bin` directory and the executable file `vcftool`. Add it to you path.
+
 
 
