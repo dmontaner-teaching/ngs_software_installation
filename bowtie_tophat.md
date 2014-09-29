@@ -8,7 +8,12 @@ You can download __bowtie__ latest tversions from:
 - <http://sourceforge.net/projects/bowtie-bio/files/bowtie/>
 - <http://sourceforge.net/projects/bowtie-bio/files/bowtie2/>
 
+just add the executable files to your path.
+
+
 
 You can download tophat biaries from:
 
 - <http://ccb.jhu.edu/software/tophat/index.shtml>
+
+just add the executable files to your path.
