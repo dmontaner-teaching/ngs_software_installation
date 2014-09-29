@@ -12,7 +12,7 @@ just add the executable files to your path.
 
 
 
-You can download tophat biaries from:
+You can download __tophat__ biaries from:
 
 - <http://ccb.jhu.edu/software/tophat/index.shtml>
 
