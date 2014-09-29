@@ -19,4 +19,7 @@ After modifying the file you will need to "reload" it doing:
 (just up to the next time you restart your computer)
 
 
-Remember that, besides being reacheable (in your path) the files to be executed have to have __execute permissions__.
+__Remarks__
+
+- Remember that, besides being reacheable (in your path) the files to be executed have to have __execute permissions__.
+- You can use the command `which` to find out the path to executable you are running and make sure that it is the appropriated version.
