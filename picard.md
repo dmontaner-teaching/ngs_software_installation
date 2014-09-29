@@ -16,6 +16,8 @@ for instance:
     piccard-tools AddOrReplaceReadGroups INPUTFILE
 
 
+----
+
 You can download all __java__ executables form  
 <https://github.com/broadinstitute/picard/releases>
 
