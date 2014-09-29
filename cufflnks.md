@@ -8,6 +8,8 @@ They may be installe via `apt:
 
 
 
-Latest version binaryes may be download from: 
-
+Latest version binaryes may be download from 
 <http://cufflinks.cbcb.umd.edu/>
+
+Just uncompres and add the executable files to your path. 
+
