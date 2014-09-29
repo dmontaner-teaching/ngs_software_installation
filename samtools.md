@@ -13,8 +13,7 @@ Latest versions may be downloaded form:
 - <http://sourceforge.net/projects/samtools/files/tabix/>
 
 To install uncompres the files and type
-   
-   make
-   
-executables will be created. Add them to your search path. 
 
+    make
+
+executables will be created. Add them to your search path. 
