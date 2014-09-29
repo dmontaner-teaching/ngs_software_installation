@@ -17,3 +17,6 @@ After modifying the file you will need to "reload" it doing:
     source .profile
 
 (just up to the next time you restart your computer)
+
+
+Remember that, besides being reacheable (in your path) the files to be executed have to have __execute permissions__.
