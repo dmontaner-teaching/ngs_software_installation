@@ -11,5 +11,4 @@ The software is usefull to __simulate NGS data__ files.
     rm -r samtools
     ln -s PATH_TO_YOUR_SAMTOOLS_DIR samtools
 - type `make`
-
-
+- add the folder to you path
