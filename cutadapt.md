@@ -23,6 +23,7 @@ Dependencies
 - Download Cython form <http://cython.org/#download>
 - Uncompress 
 - Change to the uncompressed folder and type: 
+
     python setup.py install --user
 
 Still `python-dev` needs to be installed (I do not know if there is a local way to install this or if it has to be installed via apt)
