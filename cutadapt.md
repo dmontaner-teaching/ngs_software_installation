@@ -19,6 +19,10 @@ Dependencies
 
 <!--
 http://cython.org/#download
+https://docs.python.org/2/install/#alternate-installation-the-user-scheme
+
+cd 
+python setup.py install --user   
 
 -->
 
