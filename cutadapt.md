@@ -36,14 +36,21 @@ Build
     python setup.py build
     python setup.py build_ext -i               # -i is just for verbose output
     
+<!--     
     cp bin/_preamble.py build/scripts-2.7/     # this is needed for a custom installation
 
 
 Then the script 
 
     build/scripts-2.7/cutadapt
-    
+-->
+
+Then the script 
+
+    bin/cutadapt
+
 seems to work fine. 
+
 You can direclty call it or include it in your path.
 
 
