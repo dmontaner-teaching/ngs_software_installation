@@ -16,15 +16,16 @@ Dependencies
     sudo apt-get install cython 
     sudo apt-get install cython-dbg cython-doc   # I am not sure this is needed 
 
+----
 
-<!--
-http://cython.org/#download
-https://docs.python.org/2/install/#alternate-installation-the-user-scheme
+[Cython](http://cython.org/) may also be installed in __your home__ directory (in case you do not have root access):
 
-cd 
-python setup.py install --user   
+- Download Cython form <http://cython.org/#download>
+- Uncompress 
+- Change to the uncompressed folder and type: 
+    python setup.py install --user
 
--->
+Still `python-dev` needs to be installed (I do not know if there is a local way to install this or if it has to be installed via apt)
 
 
 Build
