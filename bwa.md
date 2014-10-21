@@ -2,7 +2,7 @@ BWA
 ===
 
 
-Download the last version (bwa-*.*.*.tar.bz2) from 
+Download the last version (bwa-....tar.bz2) from 
 <http://sourceforge.net/projects/bio-bwa/files/>
 
 - Uncompress
