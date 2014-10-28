@@ -5,6 +5,7 @@ It may be installed using `apt` ([see here](http://www.broadinstitute.org/igv/no
 
     sudo apt-get install igv
 
+----
 
 You can also download the binaries for the latest version form 
 <http://www.broadinstitute.org/igv> 
