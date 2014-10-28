@@ -9,7 +9,7 @@ Samtools and _complementary_ software may be installed using `apt`:
 
 Latest versions may be downloaded form:
 
-- <http://sourceforge.net/projects/samtools/files/samtools/>
+- <https://github.com/samtools/samtools/releases>
 - <http://sourceforge.net/projects/samtools/files/tabix/>
 
 To install uncompres the files and type
