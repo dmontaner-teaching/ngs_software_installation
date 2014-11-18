@@ -1,5 +1,5 @@
 tabix
 ======
 
-See [samtools page](#samtools.md) for tabix installation.
+See [samtools page](samtools.md) for tabix installation.
 
