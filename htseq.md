@@ -15,5 +15,6 @@ Then
 This will create the folder 'builds/cripts-2.7/`. Add it to your path.
 
 
-See: 
+See 
 <http://www-huber.embl.de/HTSeq/doc/install.html#install>
+for further details.
