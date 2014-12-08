@@ -1,7 +1,7 @@
 GATK
 ====
 
-Download the program form <https://www.broadinstitute.org/gatk/> (signin agreement is required)
+Download the program form <https://www.broadinstitute.org/gatk/> (sign-in agreement is required)
 
 Once you have uncompressed the file you can execute the __java__ file doing:
 
@@ -17,7 +17,7 @@ Create a file called __GATK__ containing this lines:
 
 and leave the file in your `bin` directory or add it to your path.
 
-Then you can call gatk just by typing:
+Then you can call `gatk` just by typing:
 
    GATK parameters
 

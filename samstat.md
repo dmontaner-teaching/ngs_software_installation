@@ -4,7 +4,7 @@ SAMStat
 Download from: 
 <http://sourceforge.net/projects/samstat/>
 
-1. Uncompress
+1. Decompress
 2. ./configure
 3. make
 

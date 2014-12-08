@@ -21,7 +21,7 @@ Dependencies
 [Cython](http://cython.org/) may also be installed in __your home__ directory (in case you do not have root access):
 
 - Download Cython form <http://cython.org/#download>
-- Uncompress 
+- Decompress 
 - Change to the uncompressed folder and type: `python setup.py install --user`
 
 Still `python-dev` needs to be installed (I do not know if there is a local way to install this or if it has to be installed via apt)
@@ -51,7 +51,7 @@ Then the script
 
 seems to work fine. 
 
-You can direclty call it or include it in your path.
+You can directly call it or include it in your path.
 
 
 

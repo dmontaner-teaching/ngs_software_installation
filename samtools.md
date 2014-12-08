@@ -12,11 +12,11 @@ Latest versions may be downloaded form:
 - <http://sourceforge.net/projects/samtools/files/samtools/> or <https://github.com/samtools/samtools/releases>
 - <http://sourceforge.net/projects/samtools/files/tabix/>
 
-To install uncompres the files and type
+To install decompress the files and type
 
     make
 
-executables will be created. Add them to your search path. 
+executable files will be created. Add them to your search path. 
 
 Some more hints about installation at: 
 <http://www.htslib.org/download/>

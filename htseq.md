@@ -1,6 +1,28 @@
 HTSeq
 =====
 
+Dependencies
+------------
+
+    sudo apt-get install python-setuptools # needed for the installation
+    sudo apt-get install build-essential python2.7-dev python-numpy python-matplotlib
+
+The [htseq-count](http://www-huber.embl.de/users/anders/HTSeq/doc/count.html) script can be used as a standalone tool to compute read counts.
+It is dependent on [pysam](https://github.com/pysam-developers/pysam), a Python wrapper to [SAMtools](http://samtools.sourceforge.net/).
+
+`pysam` can be installed doing: 
+
+    sudo pip install pysam
+    sudo apt-get install python-pip 
+
+Note: The first of this lines installs [pip](https://pypi.python.org/pypi/pip)
+_a tool for installing and managing Python packages_.
+
+
+
+
+
+
 Form repositories
 -----------------
 
@@ -10,12 +32,7 @@ Form repositories
 Form sources
 ------------
 
-Dependencies
-
-    sudo apt-get install python-setuptools # needed for the installation
-    sudo apt-get install build-essential python2.7-dev python-numpy python-matplotlib
-
-Download form <https://pypi.python.org/pypi/HTSeq> and uncompress.
+Download form <https://pypi.python.org/pypi/HTSeq> and compress.
 
 Then 
 

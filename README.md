@@ -12,7 +12,7 @@ Include this line in your __.profle__ file (in your home directory)
 
     export PATH=path/to/the/directory/containing/binaries:$PATH
 
-Add the new folder __at the begining__ the $PATH variable as commands are sought in left to right order in all indicated folders.
+Add the new folder __at the beginning__ the $PATH variable as commands are sought in left to right order in all indicated folders.
 
 After modifying the file you will need to "reload" it doing:
 
@@ -23,5 +23,5 @@ After modifying the file you will need to "reload" it doing:
 
 __Remarks__
 
-- Remember that, besides being reacheable (in your path) the files to be executed have to have __execute permissions__.
+- Remember that, besides being reachable (in your path) the files to be executed have to have __execute permissions__.
 - You can use the command `which` to find out the path to executable you are running and make sure that it is the appropriated version.

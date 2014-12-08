@@ -5,9 +5,9 @@ BWA
 Download the last version (bwa-....tar.bz2) from 
 <http://sourceforge.net/projects/bio-bwa/files/>
 
-- Uncompress
+- Decompress
 - Change to the uncompressed directory
-- Type `make`. This shoul create an executable file called __bwa__
+- Type `make`. This should create an executable file called __bwa__
 - Add it to your path
 
 
@@ -15,8 +15,8 @@ Download the last version (bwa-....tar.bz2) from
 Install in 32 Machine
 =====================
 
-The __Makefile__ that comes with the BWA is ready for 64 bip machines...
+The __Makefile__ that comes with the BWA is ready for 64 bit machines...
 
-See this if you are installin tin a 32 bit machine: 
+See this if you are installing tin a 32 bit machine: 
 
 <https://www.biostars.org/p/80351/>

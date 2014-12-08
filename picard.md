@@ -13,7 +13,7 @@ Then you can use it as:
 
 for instance: 
 
-    piccard-tools AddOrReplaceReadGroups INPUTFILE
+    picard-tools AddOrReplaceReadGroups INPUTFILE
 
 
 that is why __THIS IS THE ONLY TOOL I PREFER TO INSTALL USING__ `apt` and not form sources or binaries.
@@ -21,7 +21,7 @@ that is why __THIS IS THE ONLY TOOL I PREFER TO INSTALL USING__ `apt` and not fo
 
 ----
 
-You can download all __java__ executables form  
+You can download all __java__ executable files form  
 <https://github.com/broadinstitute/picard/releases>
 
 and execute each of them doing:
