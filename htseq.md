@@ -1,6 +1,15 @@
 HTSeq
 =====
 
+Form repositories
+-----------------
+
+    sudo apt-get install python-htseq python-htseq-doc
+
+
+Form sources
+------------
+
 Dependencies
 
     sudo apt-get install python-setuptools # needed for the installation
