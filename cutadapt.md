@@ -8,7 +8,6 @@ The latest version (__1.5__ when I wrote this) is available at:
 It comes with a compiled `bin/cutadapt` which may be used directly. 
 If it does not work you will need to _build_ it.
 
-
 Dependencies
 ------------
 
@@ -25,6 +24,14 @@ Dependencies
 - Change to the uncompressed folder and type: `python setup.py install --user`
 
 Still `python-dev` needs to be installed (I do not know if there is a local way to install this or if it has to be installed via apt)
+
+Sometimes the latest version of `cython` may be needed. 
+Download form <https://github.com/cython/cython> and follow the INSTALL instructions:
+    
+    unzip 
+    cd cython-0.21.2
+    sudo python setup.py install
+
 
 
 Build
