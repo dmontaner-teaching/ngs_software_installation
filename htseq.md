@@ -12,8 +12,8 @@ It is dependent on [pysam](https://github.com/pysam-developers/pysam), a Python 
 
 `pysam` can be installed doing: 
 
-    sudo pip install pysam
     sudo apt-get install python-pip 
+    sudo pip install pysam
 
 Note: The first of this lines installs [pip](https://pypi.python.org/pypi/pip)
 _a tool for installing and managing Python packages_.
